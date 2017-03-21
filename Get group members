@@ -1,0 +1,1 @@
+PS G:\> Get-ADGroupMember "Analytics & Informatics Division" | Export-csv \userhome\pmeehan\informatics\analyticsninformatics.csv
